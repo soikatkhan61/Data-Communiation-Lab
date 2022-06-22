@@ -21,7 +21,7 @@ function calculate() {
     }
 
 
-   console.log(stuffingData.join('') == 1011111011000)
+   console.log(stuffingData.join(''))
 }
 
 
